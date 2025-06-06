@@ -1,0 +1,41 @@
+# Bytecode files
+*.pyc
+__pycache__/
+
+# Virtual environment
+venv/
+.venv/
+env/
+virtualenv/
+
+# Distributions and build files
+dist/
+build/
+*.egg-info/
+*.egg
+sdist/
+develop-eggs/
+downloads/
+wheels/
+
+# IDE specific files
+.idea/
+.vscode/
+*.pyproj
+*.sublime-project
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+*.swp
+
+# User-specific settings
+.env
+config.ini
+secrets.json

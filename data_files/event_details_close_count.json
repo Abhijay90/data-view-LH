@@ -1,0 +1,1691 @@
+{
+  "totalCount": 23,
+  "byDate": {
+    "2025-03-29": {
+      "count": 1,
+      "events": [
+        {
+          "initiatiorExpoPushToken": "ExponentPushToken[fMRME4FymRBOQq6ZBTawEs]",
+          "howManyPeople": [
+            0,
+            30
+          ],
+          "requiredApproval": false,
+          "minTicketPrice": 100,
+          "eventClass": "ticketed",
+          "subscribeEvent": {
+            "enabled": true,
+            "interestedCount": 0,
+            "viewCount": 3246
+          },
+          "eventType": "free-individual",
+          "payoutDescriptor": "f17fdff900241d125a03fe",
+          "minAge": 18,
+          "addPlusOnes": {
+            "allowedNumber": [
+              0,
+              1
+            ],
+            "isAllowed": false
+          },
+          "numberRemainingSpots": 30,
+          "closeReason": "I had a problem with the venue",
+          "flyerImage": "https://firebasestorage.googleapis.com/v0/b/walkme-e7896.appspot.com/o/events%2F736ed270-0cd7-11f0-939b-bd12a0c51d1b.png?alt=media&token=1a2cb7e4-e552-4a0a-b1cf-629d461993c8",
+          "initiatorAvatarUrl": "https://example.com/event-avatar.jpg",
+          "initiatorName": "369 Upscale",
+          "initiatorUid": "wN1yL4BgFaYQrZQMWAC3ozvDyZ42",
+          "restrictMemberGender": "open",
+          "isGroupBuying": false,
+          "location": {
+            "latitude": 40.7192886,
+            "otherLocationDetails": "",
+            "guestLocationPreview": "Stafili Wine Cafe, West Broadway, New York, NY, USA",
+            "longitude": -74.0064889,
+            "eventLocation": "222 W Broadway, New York, NY 10013, USA",
+            "radius": 0
+          },
+          "payoutStatus": "NA",
+          "maxAge": 90,
+          "shareCloseMessage": "Hello, \n\nWith the holidays and a few other things going on, our venues needed to reschedule, so the wine tasting will be moved to next month. I know this is disappointing, and I truly appreciate your understanding. Full refunds are being processed, and a new date is on the way. Can\u2019t wait to see you soon.",
+          "tags": [],
+          "eventName": "Upscale Singles Wine Tasting - Stafili Cafe",
+          "totalMember": NaN,
+          "externalEventUrl": "",
+          "lastUpdatedAt": "2025-05-20 20:23:12.268000+00:00",
+          "maxTicketPrice": 100,
+          "timing": {
+            "signupCloseTime": "2025-04-18T00:00:27.000Z",
+            "eventEndDate": "2025-04-18T01:00:27.000Z",
+            "eventStartTime": "2025-04-17T23:00:27.000Z",
+            "signupCloseDate": "2025-04-18T00:00:27.000Z",
+            "displayTimezone": "America/New_York",
+            "eventEndTime": "2025-04-18T01:00:27.000Z",
+            "timeZone": "UTC",
+            "eventDate": "2025-04-17T23:00:27.000Z"
+          },
+          "eventDescription": "Tired of the apps? Let\u2019s do dating differently.\n\nThis Wednesday, April 17, join a room full of NYC\u2019s most intentional, well-dressed, and attractive singles for a night designed to spark real chemistry.\n\nUpscale Singles Wine Tasting\n7:30PM | Stafili Wine Caf\u00e9 | 222 W Broadway\n$100 | Limited to 30 guests\n\nYou\u2019ll sip Red, White, and Ros\u00e9\u2014paired with elevated hors d\u2019oeuvres\u2014in a warm, candlelit setting that feels nothing like a typical singles event.\nCurated guest list. Great wine. Effortless conversation. No plus ones. No pressure. Just possibility.\n\nAges:\nWomen: 25\u201336\nMen: 33\u201345\n\nDress Code: Cocktail / Elevated\n\nTickets are moving\u2014don\u2019t wait.",
+          "invitationCriteria": "link_invite",
+          "initiatorGender": "male",
+          "numberAttending": 0,
+          "coHostUids": [
+            "Pfh5HNCDqdYoioK4ZDwBiPaU2M12",
+            "OyJwyIVfENdUL0cVpmgmc5Iq0LH2",
+            "GzMhSqcYFqcAQJmHMfpnhvquZMI2"
+          ],
+          "ogImage": "",
+          "eventStatus": "close",
+          "coHosts": {
+            "GzMhSqcYFqcAQJmHMfpnhvquZMI2": {
+              "uid": "GzMhSqcYFqcAQJmHMfpnhvquZMI2",
+              "permissions": [
+                "EDIT_EVENT_DETAILS"
+              ]
+            },
+            "Pfh5HNCDqdYoioK4ZDwBiPaU2M12": {
+              "uid": "Pfh5HNCDqdYoioK4ZDwBiPaU2M12",
+              "permissions": [
+                "EDIT_EVENT_DETAILS"
+              ],
+              "name": "Prakash"
+            },
+            "OyJwyIVfENdUL0cVpmgmc5Iq0LH2": {
+              "uid": "OyJwyIVfENdUL0cVpmgmc5Iq0LH2",
+              "permissions": [
+                "EDIT_EVENT_DETAILS"
+              ]
+            }
+          },
+          "publicEvent": true,
+          "eventTags": [],
+          "createdAt": "2025-03-29T19:53:14.431Z",
+          "otherReasonToClose": "",
+          "id": "736ed270-0cd7-11f0-939b-bd12a0c51d1b"
+        }
+      ]
+    },
+    "2025-03-30": {
+      "count": 1,
+      "events": [
+        {
+          "initiatiorExpoPushToken": "ExponentPushToken[fMRME4FymRBOQq6ZBTawEs]",
+          "howManyPeople": [
+            0,
+            36
+          ],
+          "requiredApproval": false,
+          "minTicketPrice": 100,
+          "eventClass": "ticketed",
+          "subscribeEvent": {
+            "enabled": true,
+            "interestedCount": 0,
+            "viewCount": 2204
+          },
+          "eventType": "free-individual",
+          "payoutDescriptor": "9d24433989c6e8c875e6ca",
+          "minAge": 25,
+          "addPlusOnes": {
+            "allowedNumber": [
+              0,
+              1
+            ],
+            "isAllowed": false
+          },
+          "numberRemainingSpots": 36,
+          "closeReason": "I had a problem with the venue",
+          "flyerImage": "https://firebasestorage.googleapis.com/v0/b/walkme-e7896.appspot.com/o/events%2F10b9f680-0cfc-11f0-a5bc-8d5b94a7380c.png?alt=media&token=853fa90d-54dd-4c9b-ad15-2f285391a6f7",
+          "initiatorAvatarUrl": "https://example.com/event-avatar.jpg",
+          "initiatorName": "369 Upscale",
+          "initiatorUid": "wN1yL4BgFaYQrZQMWAC3ozvDyZ42",
+          "restrictMemberGender": "open",
+          "isGroupBuying": false,
+          "location": {
+            "latitude": 40.7470962,
+            "otherLocationDetails": "",
+            "guestLocationPreview": "Ayza Wine & Chocolate Bar, West 31st Street, New York, NY, USA",
+            "longitude": -73.9869045,
+            "eventLocation": "11 W 31st St, New York, NY 10001, USA",
+            "radius": 0
+          },
+          "payoutStatus": "NA",
+          "maxAge": 45,
+          "shareCloseMessage": "Hello, \n\nWith the holidays and a few other things going on, our venues needed to reschedule, so the wine tasting will be moved to next month. I know this is disappointing, and I truly appreciate your understanding. Full refunds are being processed, and a new date is on the way. Can\u2019t wait to see you soon.",
+          "tags": [],
+          "eventName": "Upscale Dating Presents: Fine Wine Tasting @ AYZA ",
+          "totalMember": NaN,
+          "externalEventUrl": "",
+          "lastUpdatedAt": "2025-05-12 18:35:02.563000+00:00",
+          "maxTicketPrice": 100,
+          "timing": {
+            "signupCloseTime": "2025-04-20T21:00:35.000Z",
+            "eventEndDate": "2025-04-20T22:00:35.000Z",
+            "eventStartTime": "2025-04-20T20:00:35.000Z",
+            "signupCloseDate": "2025-04-20T21:00:35.000Z",
+            "displayTimezone": "America/New_York",
+            "eventEndTime": "2025-04-20T22:00:35.000Z",
+            "timeZone": "UTC",
+            "eventDate": "2025-04-20T20:00:35.000Z"
+          },
+          "eventDescription": "Sip & Savor: A Wine & Chocolate Tasting\nSunday, April 20 | 4\u20136PM | Ayza NYC\n$100 all-inclusive | 36 guests only\nCo-hosted by Danilo & Sebastian\n\nAn intimate afternoon of wine, connection, and presence.\n\nJoin a group of elegant singles for a curated tasting of Red, White, and Ros\u00e9 wines\u2014paired with fine chocolate and gourmet hors d\u2019oeuvres. Set in the romantic atmosphere of Ayza Wine & Chocolate Bar, this experience is designed to spark real conversation and effortless chemistry.\n\nAges: Women 25\u201336 | Men 33\u201345\nDress Code: Cocktail / Elevated\n\nTickets are limited\u2014come experience something unforgettable.\n",
+          "invitationCriteria": "link_invite",
+          "initiatorGender": "male",
+          "numberAttending": 0,
+          "coHostUids": [
+            "GzMhSqcYFqcAQJmHMfpnhvquZMI2",
+            "OyJwyIVfENdUL0cVpmgmc5Iq0LH2",
+            "Pfh5HNCDqdYoioK4ZDwBiPaU2M12"
+          ],
+          "ogImage": "",
+          "eventStatus": "close",
+          "coHosts": {
+            "GzMhSqcYFqcAQJmHMfpnhvquZMI2": {
+              "uid": "GzMhSqcYFqcAQJmHMfpnhvquZMI2",
+              "permissions": [
+                "EDIT_EVENT_DETAILS"
+              ]
+            },
+            "Pfh5HNCDqdYoioK4ZDwBiPaU2M12": {
+              "uid": "Pfh5HNCDqdYoioK4ZDwBiPaU2M12",
+              "permissions": [
+                "EDIT_EVENT_DETAILS"
+              ]
+            },
+            "OyJwyIVfENdUL0cVpmgmc5Iq0LH2": {
+              "uid": "OyJwyIVfENdUL0cVpmgmc5Iq0LH2",
+              "permissions": [
+                "EDIT_EVENT_DETAILS"
+              ]
+            }
+          },
+          "publicEvent": true,
+          "eventTags": [],
+          "createdAt": "2025-03-30T00:15:20.201Z",
+          "otherReasonToClose": "",
+          "id": "10b9f680-0cfc-11f0-a5bc-8d5b94a7380c"
+        }
+      ]
+    },
+    "2025-04-01": {
+      "count": 1,
+      "events": [
+        {
+          "initiatiorExpoPushToken": "ExponentPushToken[fMRME4FymRBOQq6ZBTawEs]",
+          "howManyPeople": [
+            0,
+            15
+          ],
+          "minTicketPrice": 100,
+          "requiredApproval": true,
+          "eventClass": "ticketed",
+          "subscribeEvent": {
+            "enabled": true,
+            "interestedCount": 0,
+            "viewCount": 961
+          },
+          "eventType": "free-individual",
+          "payoutDescriptor": "c543787604eac5bf2c9327",
+          "minAge": 18,
+          "eventName": "Upscale Singles Wine Tasting - Stafili Cafe",
+          "initiatorName": "369 Upscale ",
+          "closeReason": "I had a problem with the venue",
+          "flyerImage": "https://storage.googleapis.com/walkme-e7896.appspot.com/events%2F5c149ac0-0f06-11f0-abb4-57fa596db90b.png?v=0b21d7b6-270f-447a-ac50-a9a5383d26cf",
+          "initiatorAvatarUrl": "https://example.com/event-avatar.jpg",
+          "numberRemainingSpots": 14,
+          "initiatorUid": "wN1yL4BgFaYQrZQMWAC3ozvDyZ42",
+          "restrictMemberGender": "open",
+          "isGroupBuying": false,
+          "location": {
+            "latitude": 40.7192886,
+            "otherLocationDetails": "",
+            "guestLocationPreview": "Stafili Wine Cafe, West Broadway, New York, NY, USA",
+            "longitude": -74.0064889,
+            "eventLocation": "222 W Broadway, New York, NY 10013, USA",
+            "radius": 0
+          },
+          "payoutStatus": "NA",
+          "maxAge": 90,
+          "shareCloseMessage": "Hello, \n\nWith the holidays and a few other things going on, our venues needed to reschedule, so the wine tasting will be moved to next month. I know this is disappointing, and I truly appreciate your understanding. Full refunds are being processed, and a new date is on the way. Can\u2019t wait to see you soon.",
+          "tags": [],
+          "addPlusOnes": {
+            "allowedNumber": [
+              0,
+              1
+            ],
+            "isAllowed": false
+          },
+          "totalMember": NaN,
+          "externalEventUrl": "",
+          "lastUpdatedAt": "2025-05-21 03:35:29.916000+00:00",
+          "maxTicketPrice": 100,
+          "timing": {
+            "signupCloseTime": "2025-04-18T00:00:06.000Z",
+            "eventEndDate": "2025-04-18T01:00:06.000Z",
+            "eventStartTime": "2025-04-17T23:00:06.000Z",
+            "signupCloseDate": "2025-04-18T00:00:06.000Z",
+            "displayTimezone": "America/New_York",
+            "eventEndTime": "2025-04-18T01:00:06.000Z",
+            "timeZone": "UTC",
+            "eventDate": "2025-04-17T23:00:06.000Z"
+          },
+          "eventDescription": "Upscale Singles Wine Tasting\nWednesday, April 17 | 7:30PM\nStafili Wine Caf\u00e9 | Tribeca\n$100 | Invitation Only\n\nA room lit by candlelight. A curated pour of red, white, and ros\u00e9. Thirty guests chosen not by chance, but by intention.\n\nThis isn\u2019t a party. It\u2019s presence. An atmosphere designed for chemistry, for conversation that lingers longer than the wine.\n\nThree varietals. Elegant hors d\u2019oeuvres. No distractions. No plus ones. Just you and the moment you\u2019ve been waiting for.\n\nAge Range:\nWomen: 25\u201336\nMen: 33\u201345\n\nDress Code: Cocktail Attire / Elevated\n\nSpace is limited. But the right people always find their way in.",
+          "invitationCriteria": "link_invite",
+          "initiatorGender": "male",
+          "numberAttending": 0,
+          "coHostUids": [
+            "GzMhSqcYFqcAQJmHMfpnhvquZMI2",
+            "OyJwyIVfENdUL0cVpmgmc5Iq0LH2",
+            "Pfh5HNCDqdYoioK4ZDwBiPaU2M12"
+          ],
+          "ogImage": "https://storage.googleapis.com/walkme-e7896.appspot.com/events%2F5c149ac0-0f06-11f0-abb4-57fa596db90b_og.png?v=6c006e89-5ac4-491c-8dfc-e3974eec99a5",
+          "eventStatus": "close",
+          "coHosts": {
+            "GzMhSqcYFqcAQJmHMfpnhvquZMI2": {
+              "uid": "GzMhSqcYFqcAQJmHMfpnhvquZMI2",
+              "permissions": [
+                "EDIT_EVENT_DETAILS"
+              ]
+            },
+            "Pfh5HNCDqdYoioK4ZDwBiPaU2M12": {
+              "uid": "Pfh5HNCDqdYoioK4ZDwBiPaU2M12",
+              "permissions": [
+                "EDIT_EVENT_DETAILS"
+              ]
+            },
+            "OyJwyIVfENdUL0cVpmgmc5Iq0LH2": {
+              "uid": "OyJwyIVfENdUL0cVpmgmc5Iq0LH2",
+              "permissions": [
+                "EDIT_EVENT_DETAILS"
+              ]
+            }
+          },
+          "eventTags": [],
+          "publicEvent": true,
+          "createdAt": "2025-04-01T14:34:03.839Z",
+          "otherReasonToClose": "",
+          "id": "5c149ac0-0f06-11f0-abb4-57fa596db90b"
+        }
+      ]
+    },
+    "2025-04-23": {
+      "count": 1,
+      "events": [
+        {
+          "initiatiorExpoPushToken": "ExponentPushToken[oJQELUA9XEStfoSJunq6Vp]",
+          "howManyPeople": [
+            0,
+            10
+          ],
+          "requiredApproval": false,
+          "subscribeEvent": {
+            "enabled": true,
+            "viewCount": 0,
+            "interestedCount": 0
+          },
+          "eventClass": "non_ticketed",
+          "eventType": "free-individual",
+          "payoutDescriptor": "7b3a2a4916eb7c549a5d92",
+          "minAge": 18,
+          "eventName": "Test",
+          "initiatorName": "Agustina Bruni",
+          "closeReason": "I had an emergency",
+          "flyerImage": "https://storage.googleapis.com/walkme-e7896.appspot.com/events%2Fe6f16630-2083-11f0-ab57-bb37566906f9.png?v=c073c6ed-1e78-4158-9724-e33d761574e6",
+          "initiatorAvatarUrl": "https://firebasestorage.googleapis.com/v0/b/walkme-e7896.appspot.com/o/AOInFMceolUeHu7maDCRuYrVwy33%2Fprofile.png?alt=media",
+          "addPlusOnes": {
+            "allowedNumber": [
+              0,
+              1
+            ],
+            "isAllowed": false
+          },
+          "restrictMemberGender": "open",
+          "initiatorUid": "AOInFMceolUeHu7maDCRuYrVwy33",
+          "location": {
+            "latitude": -34.6440676,
+            "otherLocationDetails": "",
+            "guestLocationPreview": "Haedo, Buenos Aires Province, Argentina",
+            "longitude": -58.59564279999999,
+            "eventLocation": "B1706 Haedo, Buenos Aires Province, Argentina",
+            "radius": 1000
+          },
+          "isGroupBuying": false,
+          "payoutStatus": "NA",
+          "maxAge": 60,
+          "numberRemainingSpots": 10,
+          "tags": [],
+          "totalMember": NaN,
+          "externalEventUrl": "",
+          "lastUpdatedAt": "2025-04-23 20:46:27.313000+00:00",
+          "eventDescription": "Test",
+          "timing": {
+            "signupCloseTime": "2025-04-24T21:00:19.982Z",
+            "eventEndDate": "2025-04-24T22:00:19.982Z",
+            "eventStartTime": "2025-04-24T21:00:19.982Z",
+            "signupCloseDate": "2025-04-24T21:00:19.982Z",
+            "displayTimezone": "America/Argentina/Buenos_Aires",
+            "eventEndTime": "2025-04-24T22:00:19.982Z",
+            "timeZone": "UTC",
+            "eventDate": "2025-04-24T21:00:19.982Z"
+          },
+          "invitationCriteria": "link_invite",
+          "initiatorGender": "female",
+          "numberAttending": 0,
+          "coHostUids": [],
+          "ogImage": "",
+          "feesMeta": "",
+          "coHosts": {},
+          "publicEvent": true,
+          "eventStatus": "close",
+          "createdAt": "2025-04-23T20:45:36.660Z",
+          "otherReasonToClose": "",
+          "id": "e6f16630-2083-11f0-ab57-bb37566906f9"
+        }
+      ]
+    },
+    "2025-04-25": {
+      "count": 2,
+      "events": [
+        {
+          "initiatiorExpoPushToken": "",
+          "howManyPeople": [
+            0,
+            100
+          ],
+          "requiredApproval": false,
+          "subscribeEvent": {
+            "enabled": true,
+            "viewCount": 0,
+            "interestedCount": 0
+          },
+          "eventClass": "non_ticketed",
+          "eventType": "free-individual",
+          "payoutDescriptor": "c53bac5e12ebcd2696d5c8",
+          "minAge": 18,
+          "eventName": "Test Event",
+          "initiatorName": "Jen",
+          "closeReason": "Other",
+          "flyerImage": "https://storage.googleapis.com/walkme-e7896.appspot.com/events%2F90148330-21c6-11f0-878a-d9afceb59b6c.png?v=2b3037b0-2e93-4d1e-97e2-66a41b21b6c7",
+          "initiatorAvatarUrl": "https://example.com/event-avatar.jpg",
+          "addPlusOnes": {
+            "allowedNumber": [
+              0,
+              1
+            ],
+            "isAllowed": false
+          },
+          "restrictMemberGender": "open",
+          "initiatorUid": "uDCaELKHk2MZrEIb1zINJtAzhxD3",
+          "isGroupBuying": false,
+          "location": {
+            "latitude": 43.211500287077975,
+            "otherLocationDetails": "",
+            "guestLocationPreview": "The HUB",
+            "longitude": -78.47278987605162,
+            "eventLocation": "Middleport",
+            "radius": 0
+          },
+          "payoutStatus": "NA",
+          "maxAge": 100,
+          "shareCloseMessage": "It was a test",
+          "tags": [],
+          "numberRemainingSpots": 100,
+          "totalMember": NaN,
+          "externalEventUrl": "",
+          "lastUpdatedAt": "2025-04-25 11:20:27.449000+00:00",
+          "eventDescription": "This is a test",
+          "timing": {
+            "signupCloseTime": "2025-04-26T12:00:21.653Z",
+            "eventEndDate": "2025-04-26T13:00:21.653Z",
+            "eventStartTime": "2025-04-26T12:00:21.653Z",
+            "signupCloseDate": "2025-04-26T12:00:21.653Z",
+            "displayTimezone": "America/New_York",
+            "eventEndTime": "2025-04-26T13:00:21.653Z",
+            "timeZone": "UTC",
+            "eventDate": "2025-04-26T12:00:21.653Z"
+          },
+          "invitationCriteria": "link_invite",
+          "initiatorGender": "female",
+          "numberAttending": 0,
+          "coHostUids": [],
+          "ogImage": "",
+          "feesMeta": "",
+          "coHosts": {},
+          "publicEvent": true,
+          "eventTags": [],
+          "eventStatus": "close",
+          "createdAt": "2025-04-25T11:15:18.074Z",
+          "otherReasonToClose": "",
+          "id": "90148330-21c6-11f0-878a-d9afceb59b6c"
+        },
+        {
+          "initiatiorExpoPushToken": "",
+          "howManyPeople": [
+            0,
+            25
+          ],
+          "requiredApproval": true,
+          "subscribeEvent": {
+            "enabled": true,
+            "interestedCount": 0,
+            "viewCount": 46
+          },
+          "eventClass": "non_ticketed",
+          "eventType": "free-individual",
+          "payoutDescriptor": "5a5a08b077758572d5951e",
+          "minAge": 18,
+          "eventName": "Sara\u2019s 30-fine bday party ",
+          "initiatorName": "Sara Ghorab",
+          "closeReason": "I had an emergency",
+          "flyerImage": "https://storage.googleapis.com/walkme-e7896.appspot.com/events%2F84d721a0-221e-11f0-9c82-21ccefe56304.png?v=e893f653-d1fc-415c-87ce-8deb71ced8e0",
+          "initiatorAvatarUrl": "https://example.com/event-avatar.jpg",
+          "addPlusOnes": {
+            "allowedNumber": [
+              0,
+              1
+            ],
+            "isAllowed": false
+          },
+          "restrictMemberGender": "open",
+          "initiatorUid": "1yJW5My0JCPkMZOJoJUvjASsC1T2",
+          "isGroupBuying": false,
+          "location": {
+            "latitude": 40.6905599,
+            "otherLocationDetails": "",
+            "guestLocationPreview": "674 Lafayette Avenue, Brooklyn, NY, USA",
+            "longitude": -73.9471141,
+            "eventLocation": "674 Lafayette Ave, Brooklyn, NY 11216, USA",
+            "radius": null
+          },
+          "payoutStatus": "NA",
+          "maxAge": 60,
+          "shareCloseMessage": "N/a",
+          "tags": [],
+          "numberRemainingSpots": 25,
+          "totalMember": NaN,
+          "externalEventUrl": "",
+          "lastUpdatedAt": "2025-04-28 15:47:44.745000+00:00",
+          "eventDescription": "HEEEEEY EVERYONE!!! So I\u2019m planning a cute little dinner with my cute little friends. After that we will be heading to a karaoke bar: TBD. I hope you all can make it ",
+          "timing": {
+            "signupCloseTime": "2025-05-10T23:00:05.000Z",
+            "eventEndDate": "2025-05-11T10:00:05.000Z",
+            "eventStartTime": "2025-05-10T23:00:05.000Z",
+            "signupCloseDate": "2025-05-10T23:00:05.000Z",
+            "displayTimezone": "America/New_York",
+            "eventEndTime": "2025-05-11T10:00:05.000Z",
+            "timeZone": "UTC",
+            "eventDate": "2025-05-10T23:00:05.000Z"
+          },
+          "invitationCriteria": "link_invite",
+          "initiatorGender": "female",
+          "numberAttending": 0,
+          "coHostUids": [],
+          "feesMeta": "",
+          "ogImage": "",
+          "coHosts": {},
+          "publicEvent": true,
+          "eventTags": [],
+          "eventStatus": "close",
+          "createdAt": "2025-04-25T21:44:54.336Z",
+          "otherReasonToClose": "",
+          "id": "84d721a0-221e-11f0-9c82-21ccefe56304"
+        }
+      ]
+    },
+    "2025-04-28": {
+      "count": 1,
+      "events": [
+        {
+          "initiatiorExpoPushToken": "DELETED_USER",
+          "howManyPeople": [
+            0,
+            10
+          ],
+          "requiredApproval": false,
+          "subscribeEvent": {
+            "enabled": true,
+            "interestedCount": 0,
+            "viewCount": 1
+          },
+          "eventClass": "non_ticketed",
+          "eventType": "free-individual",
+          "payoutDescriptor": "b027d0d3817fec28b367e5",
+          "minAge": 18,
+          "eventName": "\ud83d\udc96 Kat\u2019s Graduation Dinner \ud83d\udc96",
+          "numberRemainingSpots": 10,
+          "closeReason": "I had an emergency",
+          "flyerImage": "https://storage.googleapis.com/walkme-e7896.appspot.com/events%2F3a2991e0-2428-11f0-b9b8-dd8b852c933f.png?v=4f21fd1d-595d-456e-9f2b-219aad356a8e",
+          "initiatorAvatarUrl": "DELETED_USER",
+          "addPlusOnes": {
+            "allowedNumber": [
+              0,
+              1
+            ],
+            "isAllowed": false
+          },
+          "restrictMemberGender": "open",
+          "initiatorName": "DELETED_USER",
+          "location": {
+            "latitude": 40.713914,
+            "otherLocationDetails": "",
+            "guestLocationPreview": "Casino, East Broadway, New York, NY, USA",
+            "longitude": -73.98969559999999,
+            "eventLocation": "171 E Broadway, New York, NY 10002, USA",
+            "radius": 1000
+          },
+          "isGroupBuying": false,
+          "payoutStatus": "NA",
+          "maxAge": 60,
+          "shareCloseMessage": "I made it for the wrong event",
+          "tags": [],
+          "initiatorUid": "DELETED_USER",
+          "totalMember": NaN,
+          "externalEventUrl": "",
+          "lastUpdatedAt": "2025-04-28 12:03:21.670000+00:00",
+          "eventDescription": "Please come celebrate me ending college MAY 10th!!!!!! WHOO-HOOOOO\nCasino - \n171 E Broadway, New York, NY 10002\n@ 8pm",
+          "timing": {
+            "signupCloseTime": "2025-05-11T00:00:30.000Z",
+            "eventEndDate": "2025-05-11T03:00:30.000Z",
+            "eventStartTime": "2025-05-11T00:00:30.000Z",
+            "signupCloseDate": "2025-05-11T00:00:30.000Z",
+            "displayTimezone": "America/New_York",
+            "eventEndTime": "2025-05-11T03:00:30.000Z",
+            "timeZone": "UTC",
+            "eventDate": "2025-05-11T00:00:30.000Z"
+          },
+          "invitationCriteria": "link_invite",
+          "initiatorGender": "female",
+          "numberAttending": 0,
+          "coHostUids": [],
+          "ogImage": "https://storage.googleapis.com/walkme-e7896.appspot.com/events%2F3a2991e0-2428-11f0-b9b8-dd8b852c933f_og.png?v=f6a48e59-87c8-47cb-ac2d-52d4bb8b3d07",
+          "feesMeta": "",
+          "coHosts": {},
+          "publicEvent": true,
+          "eventStatus": "close",
+          "createdAt": "2025-04-28T11:59:25.275Z",
+          "otherReasonToClose": "",
+          "id": "3a2991e0-2428-11f0-b9b8-dd8b852c933f"
+        }
+      ]
+    },
+    "2025-05-01": {
+      "count": 3,
+      "events": [
+        {
+          "initiatiorExpoPushToken": "DELETED_USER",
+          "howManyPeople": [
+            0,
+            10
+          ],
+          "requiredApproval": false,
+          "subscribeEvent": {
+            "enabled": true,
+            "viewCount": 0,
+            "interestedCount": 0
+          },
+          "eventClass": "non_ticketed",
+          "eventType": "free-individual",
+          "payoutDescriptor": "9d1ba34f4ee7a4a9801f69",
+          "minAge": 18,
+          "eventName": "Test party",
+          "numberRemainingSpots": 10,
+          "closeReason": "I had an emergency",
+          "flyerImage": "https://storage.googleapis.com/walkme-e7896.appspot.com/events%2F9e34b390-26b7-11f0-9aa0-e1784b6c5ec3.png?v=cb98377e-b2b7-41f0-9713-7a85cbc329c4",
+          "initiatorAvatarUrl": "DELETED_USER",
+          "addPlusOnes": {
+            "allowedNumber": [
+              0,
+              1
+            ],
+            "isAllowed": false
+          },
+          "restrictMemberGender": "open",
+          "initiatorName": "DELETED_USER",
+          "location": {
+            "latitude": 18.5204303,
+            "otherLocationDetails": "",
+            "guestLocationPreview": "Pune, Maharashtra, India",
+            "longitude": 73.8567437,
+            "eventLocation": "Pune, Maharashtra, India",
+            "radius": 1000
+          },
+          "isGroupBuying": false,
+          "payoutStatus": "NA",
+          "maxAge": 60,
+          "shareCloseMessage": "undefined",
+          "tags": [],
+          "initiatorUid": "DELETED_USER",
+          "totalMember": NaN,
+          "externalEventUrl": "",
+          "lastUpdatedAt": "2025-05-01 18:17:34.596000+00:00",
+          "eventDescription": "Test",
+          "timing": {
+            "signupCloseTime": "2025-05-02T18:30:14.618Z",
+            "eventEndDate": "2025-05-02T19:30:14.618Z",
+            "eventStartTime": "2025-05-02T18:30:14.618Z",
+            "signupCloseDate": "2025-05-02T18:30:14.618Z",
+            "displayTimezone": "Asia/Kolkata",
+            "eventEndTime": "2025-05-02T19:30:14.618Z",
+            "timeZone": "UTC",
+            "eventDate": "2025-05-02T18:30:14.618Z"
+          },
+          "invitationCriteria": "link_invite",
+          "initiatorGender": "female",
+          "numberAttending": 0,
+          "coHostUids": [],
+          "ogImage": "",
+          "feesMeta": "",
+          "coHosts": {},
+          "publicEvent": true,
+          "eventStatus": "close",
+          "createdAt": "2025-05-01T18:10:55.602Z",
+          "otherReasonToClose": "",
+          "id": "9e34b390-26b7-11f0-9aa0-e1784b6c5ec3"
+        },
+        {
+          "initiatiorExpoPushToken": "",
+          "howManyPeople": [
+            0,
+            1
+          ],
+          "requiredApproval": true,
+          "subscribeEvent": {
+            "enabled": true,
+            "viewCount": 0,
+            "interestedCount": 0
+          },
+          "eventClass": "non_ticketed",
+          "eventType": "free-individual",
+          "payoutDescriptor": "bae6e63d7ffc3e98e431a1",
+          "minAge": 19,
+          "eventName": "Date night\ud83d\udc95",
+          "initiatorName": "jessie",
+          "closeReason": "I had an emergency",
+          "flyerImage": "https://storage.googleapis.com/walkme-e7896.appspot.com/events%2Fc7f36160-26ce-11f0-a86b-a3cd621acc5a.png?v=3f8196b7-57af-4bb4-ab28-afd3df1f564e",
+          "initiatorAvatarUrl": "https://example.com/event-avatar.jpg",
+          "addPlusOnes": {
+            "allowedNumber": [
+              0,
+              1
+            ],
+            "isAllowed": false
+          },
+          "restrictMemberGender": "open",
+          "initiatorUid": "MkjgkvtcxgNIDx6lChHli4NKnB32",
+          "isGroupBuying": false,
+          "location": {
+            "latitude": 30.6743643,
+            "otherLocationDetails": "",
+            "guestLocationPreview": "Bryan, TX, USA",
+            "longitude": -96.3699632,
+            "eventLocation": "Bryan, TX, USA",
+            "radius": null
+          },
+          "payoutStatus": "NA",
+          "maxAge": null,
+          "shareCloseMessage": "bc\n",
+          "tags": [],
+          "numberRemainingSpots": 1,
+          "totalMember": NaN,
+          "externalEventUrl": "",
+          "lastUpdatedAt": "2025-05-01 20:59:22.910000+00:00",
+          "eventDescription": "Date night with your favorite person ever. Painting, pottery and grabbing dinner. Maybe a movie instead depending on how I feel. I just want to spend time with you baby.",
+          "timing": {
+            "signupCloseTime": "2025-05-03T19:00:34.000Z",
+            "eventEndDate": "2025-05-04T02:00:34.000Z",
+            "eventStartTime": "2025-05-03T19:00:34.000Z",
+            "signupCloseDate": "2025-05-03T19:00:34.000Z",
+            "displayTimezone": "America/Chicago",
+            "eventEndTime": "2025-05-04T02:00:34.000Z",
+            "timeZone": "UTC",
+            "eventDate": "2025-05-03T19:00:34.000Z"
+          },
+          "invitationCriteria": "link_invite",
+          "initiatorGender": "female",
+          "numberAttending": 0,
+          "coHostUids": [],
+          "feesMeta": "",
+          "ogImage": "",
+          "coHosts": {},
+          "publicEvent": true,
+          "eventTags": [],
+          "eventStatus": "close",
+          "createdAt": "2025-05-01T20:56:42.671Z",
+          "otherReasonToClose": "",
+          "id": "c7f36160-26ce-11f0-a86b-a3cd621acc5a"
+        },
+        {
+          "initiatiorExpoPushToken": "",
+          "howManyPeople": [
+            1,
+            10
+          ],
+          "requiredApproval": false,
+          "subscribeEvent": {
+            "enabled": true,
+            "viewCount": 0,
+            "interestedCount": 0
+          },
+          "eventClass": "non_ticketed",
+          "eventType": "free-individual",
+          "payoutDescriptor": "acc914f3f0b2c2c9a4a687",
+          "minAge": 18,
+          "eventName": "Edidiong\u2019s Graduation Dinner \u2728",
+          "initiatorName": "Didi",
+          "closeReason": "I had an emergency",
+          "flyerImage": "https://storage.googleapis.com/walkme-e7896.appspot.com/events%2F5bf652b0-26d3-11f0-8ee7-d105f45e2c1e.png?v=4f23b114-a91c-4860-94c5-67797f5c2c70",
+          "initiatorAvatarUrl": "https://firebasestorage.googleapis.com/v0/b/walkme-e7896.appspot.com/o/n7lAOa24eDZ9lsWnVTlD2FwjsAl1%2Fprofile.png?alt=media",
+          "addPlusOnes": {},
+          "restrictMemberGender": "open",
+          "initiatorUid": "n7lAOa24eDZ9lsWnVTlD2FwjsAl1",
+          "location": {
+            "latitude": 34.069263,
+            "longitude": -118.399799,
+            "eventLocation": "301 N Canon Dr, Beverly Hills, CA 90210, USA"
+          },
+          "isGroupBuying": false,
+          "payoutStatus": "NA",
+          "maxAge": 120,
+          "numberRemainingSpots": 10,
+          "tags": [],
+          "totalMember": NaN,
+          "externalEventUrl": "",
+          "lastUpdatedAt": "2025-05-01 21:37:48.124000+00:00",
+          "eventDescription": "I would love to be graced by your presence at dinner \ud83d\ude42\ud83e\udd2d please come ! God has been too good! College has been beautiful! Dinner is all paid for  by my parents and we would head there  shortly after the graduation ceremony \u2763\ufe0f\u2728\n\nPlease rsvp to confirm my pooks  :)",
+          "timing": {
+            "signupCloseTime": "2025-05-04T00:00:00.000Z",
+            "eventEndDate": "2025-05-04T23:00:00.000Z",
+            "eventStartTime": "2025-05-04T00:00:00.000Z",
+            "signupCloseDate": "2025-05-04T00:00:00.000Z",
+            "displayTimezone": "America/Los_Angeles",
+            "eventEndTime": "2025-05-04T23:00:00.000Z",
+            "timeZone": "UTC",
+            "eventDate": "2025-05-04T00:00:00.000Z"
+          },
+          "invitationCriteria": "link_invite",
+          "initiatorGender": "female",
+          "numberAttending": 0,
+          "coHostUids": [],
+          "ogImage": "https://storage.googleapis.com/walkme-e7896.appspot.com/events%2F5bf652b0-26d3-11f0-8ee7-d105f45e2c1e_og.png?v=95da6e7d-494d-4db4-8d36-7c92959aecd1",
+          "feesMeta": "",
+          "coHosts": {},
+          "publicEvent": true,
+          "eventStatus": "close",
+          "createdAt": "2025-05-01T21:29:28.953Z",
+          "otherReasonToClose": "",
+          "id": "5bf652b0-26d3-11f0-8ee7-d105f45e2c1e"
+        }
+      ]
+    },
+    "2025-05-03": {
+      "count": 1,
+      "events": [
+        {
+          "initiatiorExpoPushToken": "",
+          "howManyPeople": [
+            0,
+            20
+          ],
+          "requiredApproval": false,
+          "subscribeEvent": {
+            "enabled": true,
+            "viewCount": 0,
+            "interestedCount": 0
+          },
+          "eventClass": "non_ticketed",
+          "eventType": "free-individual",
+          "payoutDescriptor": "0004c851458cabf52ae7de",
+          "minAge": 18,
+          "eventName": "emmy\u2019s 20th birthday ",
+          "initiatorName": "emmy",
+          "closeReason": "I had an emergency",
+          "flyerImage": "https://storage.googleapis.com/walkme-e7896.appspot.com/events%2F308bba90-2825-11f0-887c-c76c607219be.png?v=c56d7819-c28e-40b4-b441-b32a4bb34b4a",
+          "initiatorAvatarUrl": "https://example.com/event-avatar.jpg",
+          "addPlusOnes": {
+            "allowedNumber": [
+              0,
+              1
+            ],
+            "isAllowed": false
+          },
+          "restrictMemberGender": "open",
+          "initiatorUid": "zM2nUm8YSJSK3DuQI03keztVjko1",
+          "isGroupBuying": false,
+          "location": {
+            "latitude": 37.2263591,
+            "otherLocationDetails": "",
+            "guestLocationPreview": "525 East Division Street, Springfield, MO, USA",
+            "longitude": -93.286284,
+            "eventLocation": "525 E Division St, Springfield, MO 65803, USA",
+            "radius": null
+          },
+          "payoutStatus": "NA",
+          "maxAge": 60,
+          "shareCloseMessage": "",
+          "tags": [],
+          "numberRemainingSpots": 20,
+          "totalMember": NaN,
+          "externalEventUrl": "",
+          "lastUpdatedAt": "2025-05-03 13:49:25.348000+00:00",
+          "eventDescription": "pregame party at maggies, starting at 9:30 (525 E Division St) \u2014> moving function to the club (time tbd)\n\n",
+          "timing": {
+            "signupCloseTime": "2025-05-10T14:30:17.000Z",
+            "eventEndDate": "2025-05-11T06:00:17.000Z",
+            "eventStartTime": "2025-05-10T14:30:17.000Z",
+            "signupCloseDate": "2025-05-10T14:30:17.000Z",
+            "displayTimezone": "America/Chicago",
+            "eventEndTime": "2025-05-11T06:00:17.000Z",
+            "timeZone": "UTC",
+            "eventDate": "2025-05-10T14:30:17.000Z"
+          },
+          "invitationCriteria": "link_invite",
+          "initiatorGender": "female",
+          "numberAttending": 0,
+          "coHostUids": [],
+          "feesMeta": "",
+          "ogImage": "",
+          "coHosts": {},
+          "publicEvent": true,
+          "eventTags": [],
+          "eventStatus": "close",
+          "createdAt": "2025-05-03T13:47:47.777Z",
+          "otherReasonToClose": "",
+          "id": "308bba90-2825-11f0-887c-c76c607219be"
+        }
+      ]
+    },
+    "2025-05-05": {
+      "count": 3,
+      "events": [
+        {
+          "initiatiorExpoPushToken": "",
+          "howManyPeople": [
+            1,
+            10
+          ],
+          "requiredApproval": false,
+          "subscribeEvent": {
+            "enabled": true,
+            "interestedCount": 0,
+            "viewCount": 9
+          },
+          "eventClass": "non_ticketed",
+          "eventType": "free-individual",
+          "payoutDescriptor": "7b5b2590befee2b13b8fbd",
+          "minAge": 18,
+          "eventName": "Graduation Party\ud83c\udf93",
+          "initiatorName": "Kassidy Reed",
+          "closeReason": "Other",
+          "flyerImage": "https://storage.googleapis.com/walkme-e7896.appspot.com/events%2Fba994b70-29c5-11f0-9024-61dde27bb11a.png?v=75b22b7f-2828-435f-ab4b-7a318e6e26c4",
+          "initiatorAvatarUrl": "https://firebasestorage.googleapis.com/v0/b/walkme-e7896.appspot.com/o/ynhkSYm6FicBdYhDrqT3GzehjZr1%2Fprofile.png?alt=media",
+          "numberRemainingSpots": 9,
+          "restrictMemberGender": "open",
+          "initiatorUid": "ynhkSYm6FicBdYhDrqT3GzehjZr1",
+          "location": {
+            "latitude": 33.9194069,
+            "longitude": -83.74601419999999,
+            "eventLocation": "921 McKendree Ln, Bethlehem, GA 30620, USA"
+          },
+          "isGroupBuying": false,
+          "payoutStatus": "NA",
+          "maxAge": 120,
+          "shareCloseMessage": "needs edits",
+          "tags": [],
+          "addPlusOnes": {},
+          "totalMember": NaN,
+          "externalEventUrl": "",
+          "lastUpdatedAt": "2025-05-08 14:21:18.298000+00:00",
+          "eventDescription": "Join us for Kassidy's drop-in graduation party!\nSwing by to grab a snack, say hello, and wish the grad good luck on their next adventure.\nIt's a casual come-and-go celebration-\nwe'd love to see you! \ud83c\udf93\ud83c\udf89",
+          "timing": {
+            "signupCloseTime": "2025-05-31T17:00:00.000Z",
+            "eventEndDate": "2025-05-31T20:00:00.000Z",
+            "eventStartTime": "2025-05-31T17:00:00.000Z",
+            "signupCloseDate": "2025-05-31T17:00:00.000Z",
+            "displayTimezone": "America/New_York",
+            "eventEndTime": "2025-05-31T20:00:00.000Z",
+            "timeZone": "UTC",
+            "eventDate": "2025-05-31T17:00:00.000Z"
+          },
+          "invitationCriteria": "link_invite",
+          "initiatorGender": "female",
+          "numberAttending": 1,
+          "coHostUids": [],
+          "feesMeta": "",
+          "ogImage": "https://storage.googleapis.com/walkme-e7896.appspot.com/events%2Fba994b70-29c5-11f0-9024-61dde27bb11a_og.png?v=c6068aaf-beed-45e8-bf59-25392be41ecb",
+          "coHosts": {},
+          "publicEvent": true,
+          "eventStatus": "close",
+          "createdAt": "2025-05-05T15:29:27.415Z",
+          "otherReasonToClose": "",
+          "id": "ba994b70-29c5-11f0-9024-61dde27bb11a"
+        },
+        {
+          "initiatiorExpoPushToken": "",
+          "howManyPeople": [
+            0,
+            100
+          ],
+          "requiredApproval": false,
+          "subscribeEvent": {
+            "enabled": true,
+            "interestedCount": 0,
+            "viewCount": 128
+          },
+          "eventClass": "non_ticketed",
+          "eventType": "free-individual",
+          "payoutDescriptor": "8f2b49d638c6c4daa00fe1",
+          "minAge": 18,
+          "eventName": "Kassidys's Graduation Party\ud83c\udf93",
+          "initiatorName": "Kassidy Reed",
+          "closeReason": "Other",
+          "flyerImage": "https://storage.googleapis.com/walkme-e7896.appspot.com/events%2Ff2ab71a0-29ca-11f0-a243-2bdb4709331c.png?v=7b551093-a1d7-48b9-8912-e1d42e70392d",
+          "initiatorAvatarUrl": "https://example.com/event-avatar.jpg",
+          "numberRemainingSpots": 0,
+          "restrictMemberGender": "open",
+          "initiatorUid": "ynhkSYm6FicBdYhDrqT3GzehjZr1",
+          "isGroupBuying": false,
+          "location": {
+            "latitude": 33.9194069,
+            "otherLocationDetails": "",
+            "guestLocationPreview": "",
+            "longitude": -83.74601419999999,
+            "eventLocation": "921 McKendree Ln, Bethlehem, GA 30620, USA",
+            "radius": 0
+          },
+          "payoutStatus": "NA",
+          "maxAge": 120,
+          "addPlusOnes": {},
+          "tags": [],
+          "totalMember": NaN,
+          "externalEventUrl": "",
+          "lastUpdatedAt": "2025-05-20 20:32:48.373000+00:00",
+          "eventDescription": "Join us for Kassidy's drop-in graduation party!\nSwing by to grab a snack, say hello, and wish the grad good luck on their next adventure.\nIt's a casual come-and-go celebration-we'd love to see you!\ud83c\udf93\ud83c\udf89",
+          "timing": {
+            "signupCloseTime": "2025-05-31T17:00:00.000Z",
+            "eventEndDate": "2025-05-31T20:00:00.000Z",
+            "eventStartTime": "2025-05-31T17:00:00.000Z",
+            "signupCloseDate": "2025-05-31T17:00:00.000Z",
+            "displayTimezone": "America/New_York",
+            "eventEndTime": "2025-05-31T20:00:00.000Z",
+            "timeZone": "UTC",
+            "eventDate": "2025-05-31T17:00:00.000Z"
+          },
+          "invitationCriteria": "link_invite",
+          "initiatorGender": "female",
+          "numberAttending": 10,
+          "coHostUids": [],
+          "feesMeta": "",
+          "ogImage": "",
+          "coHosts": {},
+          "publicEvent": true,
+          "eventTags": [],
+          "eventStatus": "close",
+          "createdAt": "2025-05-05T16:06:49.998Z",
+          "otherReasonToClose": "",
+          "id": "f2ab71a0-29ca-11f0-a243-2bdb4709331c"
+        },
+        {
+          "initiatiorExpoPushToken": "",
+          "howManyPeople": [
+            1,
+            10
+          ],
+          "requiredApproval": false,
+          "subscribeEvent": {
+            "enabled": true,
+            "interestedCount": 0,
+            "viewCount": 1
+          },
+          "eventClass": "non_ticketed",
+          "eventType": "free-individual",
+          "payoutDescriptor": "a1f1642cbb20d35657cd37",
+          "minAge": 18,
+          "eventName": "Ron\u2019s Birthday Brunch",
+          "initiatorName": "Alliyah Dixon",
+          "closeReason": "Other",
+          "flyerImage": "https://storage.googleapis.com/walkme-e7896.appspot.com/events%2F9c8557d0-29d6-11f0-8352-3d6ac25989cb.png?v=c0a061b9-8234-4a91-82da-5ff52b5d20ff",
+          "initiatorAvatarUrl": "https://firebasestorage.googleapis.com/v0/b/walkme-e7896.appspot.com/o/J32uMogffhPxh7dItEuZBUwmYDw1%2Fprofile.png?alt=media",
+          "addPlusOnes": {},
+          "restrictMemberGender": "open",
+          "initiatorUid": "J32uMogffhPxh7dItEuZBUwmYDw1",
+          "location": {
+            "latitude": 27.9422106,
+            "longitude": -82.4482056,
+            "eventLocation": "603 Channelside Dr, Tampa, FL 33602, USA"
+          },
+          "isGroupBuying": false,
+          "payoutStatus": "NA",
+          "maxAge": 120,
+          "shareCloseMessage": "NA Na na na na ",
+          "tags": [],
+          "numberRemainingSpots": 10,
+          "totalMember": NaN,
+          "externalEventUrl": "",
+          "lastUpdatedAt": "2025-05-05 17:43:37.878000+00:00",
+          "eventDescription": "Sssshhh, ITS A SURPRISE!!! Hey family, this is the official invitation for the birthday brunch for Ron. Just a few things so we all can be on the same page . The brunch will be held July 5th ( on his birthday)  while gifts are not mandatory you\u2019re more than welcome to bring a gift if you would like . The color for the brunch will be blue , if you do not have blue  denim and white is fine as well. The cost of the brunch is $70.64 and is due by May 30th NO EXCEPTIONS! the longer we wait to reserve the higher the price will be . If you have additional questions feel free to reach out to Jazmin 727-655-8685. Hope to see everyone there!! ",
+          "timing": {
+            "signupCloseTime": "2025-07-05T16:30:00.000Z",
+            "eventEndDate": "2025-07-05T18:30:00.000Z",
+            "eventStartTime": "2025-07-05T16:30:00.000Z",
+            "signupCloseDate": "2025-07-05T16:30:00.000Z",
+            "displayTimezone": "America/New_York",
+            "eventEndTime": "2025-07-05T18:30:00.000Z",
+            "timeZone": "UTC",
+            "eventDate": "2025-07-05T16:30:00.000Z"
+          },
+          "invitationCriteria": "link_invite",
+          "initiatorGender": "female",
+          "numberAttending": 0,
+          "coHostUids": [],
+          "ogImage": "https://storage.googleapis.com/walkme-e7896.appspot.com/events%2F9c8557d0-29d6-11f0-8352-3d6ac25989cb_og.png?v=4f73ba72-f571-4a5e-a650-5711f43e83e7",
+          "feesMeta": "",
+          "coHosts": {},
+          "publicEvent": true,
+          "eventStatus": "close",
+          "createdAt": "2025-05-05T17:30:33.873Z",
+          "otherReasonToClose": "",
+          "id": "9c8557d0-29d6-11f0-8352-3d6ac25989cb"
+        }
+      ]
+    },
+    "2025-05-06": {
+      "count": 1,
+      "events": [
+        {
+          "initiatiorExpoPushToken": "",
+          "howManyPeople": [
+            0,
+            20
+          ],
+          "requiredApproval": false,
+          "subscribeEvent": {
+            "enabled": true,
+            "interestedCount": 0,
+            "viewCount": 6
+          },
+          "eventClass": "non_ticketed",
+          "eventType": "free-individual",
+          "payoutDescriptor": "1b437bbdd45e83d91be0dc",
+          "minAge": 18,
+          "eventName": "Ariel Hall\u2019s Graduation Dinner",
+          "initiatorName": "Ariel Hall",
+          "closeReason": "I had an emergency",
+          "flyerImage": "https://storage.googleapis.com/walkme-e7896.appspot.com/events%2Fe821a930-2a91-11f0-9b69-5164ba6ae9f6.png?v=e40abacf-cdc6-4ec8-8328-df39dd06dfa9",
+          "initiatorAvatarUrl": "https://example.com/event-avatar.jpg",
+          "addPlusOnes": {
+            "allowedNumber": [
+              0,
+              1
+            ],
+            "isAllowed": false
+          },
+          "restrictMemberGender": "open",
+          "initiatorUid": "8Y4onlT32lXZHOVMyrqE6vEqOPB2",
+          "isGroupBuying": false,
+          "location": {
+            "latitude": 32.9308617,
+            "otherLocationDetails": "",
+            "guestLocationPreview": "Grand Lux Cafe, Dallas Parkway, Dallas, TX, USA",
+            "longitude": -96.8200404,
+            "eventLocation": "13420 Dallas Pkwy, Dallas, TX 75240, USA",
+            "radius": null
+          },
+          "payoutStatus": "NA",
+          "maxAge": 60,
+          "shareCloseMessage": "",
+          "tags": [],
+          "numberRemainingSpots": 20,
+          "totalMember": NaN,
+          "externalEventUrl": "",
+          "lastUpdatedAt": "2025-05-08 12:01:54.864000+00:00",
+          "eventDescription": "Join us as we celebrate Ariel Hall\u2019s graduation with a night full of joy, food, and unforgettable memories! All gifts are warmly welcomed and appreciated!",
+          "timing": {
+            "signupCloseTime": "2025-05-24T00:30:09.000Z",
+            "eventEndDate": "2025-05-24T02:30:09.000Z",
+            "eventStartTime": "2025-05-24T00:30:09.000Z",
+            "signupCloseDate": "2025-05-24T00:30:09.000Z",
+            "displayTimezone": "America/Chicago",
+            "eventEndTime": "2025-05-24T02:30:09.000Z",
+            "timeZone": "UTC",
+            "eventDate": "2025-05-24T00:30:09.000Z"
+          },
+          "invitationCriteria": "link_invite",
+          "initiatorGender": "",
+          "numberAttending": 0,
+          "coHostUids": [],
+          "feesMeta": "",
+          "ogImage": "",
+          "coHosts": {},
+          "publicEvent": true,
+          "eventTags": [],
+          "eventStatus": "close",
+          "createdAt": "2025-05-06T15:51:02.446Z",
+          "otherReasonToClose": "",
+          "id": "e821a930-2a91-11f0-9b69-5164ba6ae9f6"
+        }
+      ]
+    },
+    "2025-05-07": {
+      "count": 1,
+      "events": [
+        {
+          "initiatiorExpoPushToken": "",
+          "howManyPeople": [
+            1,
+            10
+          ],
+          "requiredApproval": false,
+          "subscribeEvent": {
+            "enabled": true,
+            "interestedCount": 0,
+            "viewCount": 3
+          },
+          "eventClass": "non_ticketed",
+          "eventType": "free-individual",
+          "payoutDescriptor": "4839f743559b814e9e4580",
+          "minAge": 18,
+          "eventName": "Amari & Dylan\u2019s Baby Shower",
+          "initiatorName": "Amari ",
+          "closeReason": "I had an emergency",
+          "flyerImage": "https://storage.googleapis.com/walkme-e7896.appspot.com/events%2F55146900-2b7e-11f0-a16b-b75a8fb31f37.png?v=5ebea37d-a31e-4b5a-9f5f-8c7a9d9123dc",
+          "initiatorAvatarUrl": "https://firebasestorage.googleapis.com/v0/b/walkme-e7896.appspot.com/o/nIdoXQF8L6SEEuCubiewL1X7fHU2%2Fprofile.png?alt=media",
+          "addPlusOnes": {},
+          "restrictMemberGender": "open",
+          "initiatorUid": "nIdoXQF8L6SEEuCubiewL1X7fHU2",
+          "location": {
+            "latitude": 32.3703754,
+            "longitude": -86.2303603,
+            "eventLocation": "412 Holly Brook Dr, Montgomery, AL 36109, USA"
+          },
+          "isGroupBuying": false,
+          "payoutStatus": "NA",
+          "maxAge": 120,
+          "shareCloseMessage": "no longer happening",
+          "tags": [],
+          "numberRemainingSpots": 10,
+          "totalMember": NaN,
+          "externalEventUrl": "",
+          "lastUpdatedAt": "2025-05-08 05:01:50.916000+00:00",
+          "eventDescription": "A celebration of Baby Earle!",
+          "timing": {
+            "signupCloseTime": "2025-05-25T20:00:00.000Z",
+            "eventEndDate": "2025-05-25T22:30:00.000Z",
+            "eventStartTime": "2025-05-25T20:00:00.000Z",
+            "signupCloseDate": "2025-05-25T20:00:00.000Z",
+            "displayTimezone": "America/Chicago",
+            "eventEndTime": "2025-05-25T22:30:00.000Z",
+            "timeZone": "UTC",
+            "eventDate": "2025-05-25T20:00:00.000Z"
+          },
+          "invitationCriteria": "link_invite",
+          "initiatorGender": "female",
+          "numberAttending": 0,
+          "coHostUids": [],
+          "ogImage": "https://storage.googleapis.com/walkme-e7896.appspot.com/events%2F55146900-2b7e-11f0-a16b-b75a8fb31f37_og.png?v=bd9a3c61-98f3-4e02-a9e1-5c9d8340d666",
+          "feesMeta": "",
+          "coHosts": {},
+          "publicEvent": true,
+          "eventStatus": "close",
+          "createdAt": "2025-05-07T20:03:25.934Z",
+          "otherReasonToClose": "",
+          "id": "55146900-2b7e-11f0-a16b-b75a8fb31f37"
+        }
+      ]
+    },
+    "2025-05-09": {
+      "count": 1,
+      "events": [
+        {
+          "initiatiorExpoPushToken": "",
+          "howManyPeople": [
+            0,
+            10
+          ],
+          "requiredApproval": false,
+          "subscribeEvent": {
+            "enabled": true,
+            "interestedCount": 0,
+            "viewCount": 3
+          },
+          "eventClass": "non_ticketed",
+          "eventType": "free-individual",
+          "payoutDescriptor": "e2dd17e921e2bedce878b5",
+          "minAge": 18,
+          "eventName": "Makayla\u2019s 20th Bday!",
+          "initiatorName": "makayla mack",
+          "closeReason": "I had an emergency",
+          "flyerImage": "https://storage.googleapis.com/walkme-e7896.appspot.com/events%2F69715b30-2cfd-11f0-b645-89ffe25fff9f.png?v=1f1b4ac3-1296-4bb3-9f08-d5fb70f44120",
+          "initiatorAvatarUrl": "https://example.com/event-avatar.jpg",
+          "numberRemainingSpots": 9,
+          "restrictMemberGender": "open",
+          "initiatorUid": "YBToxavxMLgXE3bBqRwI2SgOnh43",
+          "isGroupBuying": false,
+          "location": {
+            "latitude": 40.8941485,
+            "otherLocationDetails": "",
+            "guestLocationPreview": "36 Engle Street, Englewood, NJ, USA",
+            "longitude": -73.9725921,
+            "eventLocation": "36 Engle St, Englewood, NJ 07631, USA",
+            "radius": null
+          },
+          "payoutStatus": "NA",
+          "maxAge": 60,
+          "shareCloseMessage": "wrong invitation was sent",
+          "tags": [],
+          "addPlusOnes": {
+            "allowedNumber": [
+              0,
+              1
+            ],
+            "isAllowed": false
+          },
+          "totalMember": NaN,
+          "externalEventUrl": "",
+          "lastUpdatedAt": "2025-05-09 18:04:58.061000+00:00",
+          "eventDescription": "You're invited to celebrate Makayla's 20th birthday next weekend! We'll be having dinner at Sofia at 4:30 PM\nLocation: 36 Engle St, Englewood, NJ 07631\nPlease RSVP by Friday, May 16th\nCan't wait to see you there!",
+          "timing": {
+            "signupCloseTime": "2025-05-18T20:30:02.000Z",
+            "eventEndDate": "2025-05-18T22:30:02.000Z",
+            "eventStartTime": "2025-05-18T20:30:02.000Z",
+            "signupCloseDate": "2025-05-18T20:30:02.000Z",
+            "displayTimezone": "America/New_York",
+            "eventEndTime": "2025-05-18T22:30:02.000Z",
+            "timeZone": "UTC",
+            "eventDate": "2025-05-18T20:30:02.000Z"
+          },
+          "invitationCriteria": "link_invite",
+          "initiatorGender": "female",
+          "numberAttending": 1,
+          "coHostUids": [],
+          "feesMeta": "",
+          "ogImage": "",
+          "coHosts": {},
+          "publicEvent": true,
+          "eventTags": [],
+          "eventStatus": "close",
+          "createdAt": "2025-05-09T17:45:41.117Z",
+          "otherReasonToClose": "",
+          "id": "69715b30-2cfd-11f0-b645-89ffe25fff9f"
+        }
+      ]
+    },
+    "2025-05-17": {
+      "count": 1,
+      "events": [
+        {
+          "initiatiorExpoPushToken": "",
+          "shareCloseMessage": "Not working out ",
+          "lastUpdatedAt": "2025-05-17 21:53:25.379000+00:00",
+          "howManyPeople": [
+            0,
+            100
+          ],
+          "timing": {
+            "signupCloseTime": "2025-06-05T01:00:00.000Z",
+            "eventEndDate": "2025-06-05T05:00:00.000Z",
+            "eventStartTime": "2025-06-05T01:00:00.000Z",
+            "signupCloseDate": "2025-06-05T01:00:00.000Z",
+            "displayTimezone": "America/New_York",
+            "eventEndTime": "2025-06-05T05:00:00.000Z",
+            "timeZone": "UTC",
+            "eventDate": "2025-06-05T01:00:00.000Z"
+          },
+          "eventDescription": "Join us for the graduation party of Arian and Yousef Khan",
+          "invitationCriteria": "link_invite",
+          "ogImage": "https://storage.googleapis.com/walkme-e7896.appspot.com/events%2Fdd7bbc40-3366-11f0-b9af-d76322cfca9d_og.png?v=1dd8d8f3-4abd-4903-88f3-032c3dbc04db",
+          "numberAttending": 1,
+          "eventStatus": "close",
+          "initiatorGender": "female",
+          "updatedAt": "2025-05-17T21:45:17.699Z",
+          "minAge": 18,
+          "eventName": "Graduation Party",
+          "initiatorName": "Arian Khan",
+          "closeReason": "Other",
+          "flyerImage": "https://storage.googleapis.com/walkme-e7896.appspot.com/events%2Fdd7bbc40-3366-11f0-b9af-d76322cfca9d.png?v=af6cbab3-2d37-4a01-b010-869b16d3fb94",
+          "createdAt": "2025-05-17T21:35:35.011Z",
+          "numberRemainingSpots": -1,
+          "restrictMemberGender": "open",
+          "otherReasonToClose": "",
+          "location": {
+            "latitude": 38.7176383,
+            "longitude": -77.2657092,
+            "eventLocation": "Lorton"
+          },
+          "initiatorUid": "mnqiiAbN61PEuyJruKEYnJmELUf1",
+          "maxAge": 120,
+          "id": "dd7bbc40-3366-11f0-b9af-d76322cfca9d"
+        }
+      ]
+    },
+    "2025-05-18": {
+      "count": 1,
+      "events": [
+        {
+          "initiatiorExpoPushToken": "",
+          "questionnaires": [
+            {
+              "questionType": "text",
+              "order": 0,
+              "question": "Are you bringing anyone ? Please let us know !"
+            }
+          ],
+          "howManyPeople": [
+            0,
+            40
+          ],
+          "requiredApproval": false,
+          "subscribeEvent": {
+            "enabled": true,
+            "interestedCount": 0,
+            "viewCount": 13
+          },
+          "eventClass": "non_ticketed",
+          "eventType": "free-individual",
+          "payoutDescriptor": "7187b63f68289ed9ed7d70",
+          "minAge": 18,
+          "eventName": "Splish splash, its a grad bash !",
+          "initiatorName": "Arianah ",
+          "closeReason": "I had an emergency",
+          "flyerImage": "https://storage.googleapis.com/walkme-e7896.appspot.com/events%2F46f09d90-341f-11f0-8cfd-59143fec846c.png?v=38314846-e0fa-4369-8a24-8a6a48d986bb",
+          "initiatorAvatarUrl": "https://firebasestorage.googleapis.com/v0/b/walkme-e7896.appspot.com/o/s8NfjfmhWERKsuVfIawy6EUcF7E2%2Fprofile.png?alt=media",
+          "addPlusOnes": {
+            "allowedNumber": [
+              0,
+              1
+            ],
+            "isAllowed": false
+          },
+          "restrictMemberGender": "open",
+          "initiatorUid": "s8NfjfmhWERKsuVfIawy6EUcF7E2",
+          "location": {
+            "latitude": 40.9093813,
+            "otherLocationDetails": "",
+            "guestLocationPreview": "49 Brooklyn Rd, Stanhope, NJ, USA",
+            "longitude": -74.7054871,
+            "eventLocation": "49 Brooklyn Rd, Stanhope, NJ 07874, USA",
+            "radius": 1000
+          },
+          "isGroupBuying": false,
+          "payoutStatus": "NA",
+          "maxAge": 60,
+          "numberRemainingSpots": 40,
+          "tags": [],
+          "externalEventUrl": "",
+          "lastUpdatedAt": "2025-05-19 19:24:18.768000+00:00",
+          "eventDescription": "Come celebrate Arianah\u2019s graduation ! \n\n(Bring your swim suits)",
+          "timing": {
+            "signupCloseTime": "2025-05-29T03:00:00.000Z",
+            "eventEndDate": "2025-06-01T01:00:52.000Z",
+            "eventStartTime": "2025-05-31T18:00:52.000Z",
+            "signupCloseDate": "2025-05-29T03:00:00.000Z",
+            "displayTimezone": "America/New_York",
+            "eventEndTime": "2025-06-01T01:00:52.000Z",
+            "timeZone": "UTC",
+            "eventDate": "2025-05-31T18:00:52.000Z"
+          },
+          "invitationCriteria": "link_invite",
+          "initiatorGender": "female",
+          "numberAttending": 0,
+          "coHostUids": [],
+          "ogImage": "https://storage.googleapis.com/walkme-e7896.appspot.com/events%2F46f09d90-341f-11f0-8cfd-59143fec846c_og.png?v=49fed608-b574-4d9f-9c8a-34df041e983a",
+          "feesMeta": "",
+          "coHosts": {},
+          "publicEvent": false,
+          "eventStatus": "close",
+          "createdAt": "2025-05-18T19:35:39.905Z",
+          "otherReasonToClose": "",
+          "id": "46f09d90-341f-11f0-8cfd-59143fec846c"
+        }
+      ]
+    },
+    "2025-05-19": {
+      "count": 3,
+      "events": [
+        {
+          "initiatiorExpoPushToken": "",
+          "howManyPeople": [
+            0,
+            14
+          ],
+          "requiredApproval": true,
+          "eventType": "free-individual",
+          "minAge": 18,
+          "eventName": "SKINCARE TIME + GOD",
+          "initiatorName": "Fabiana",
+          "closeReason": "Other",
+          "flyerImage": "https://storage.googleapis.com/walkme-e7896.appspot.com/events%2F59015fe0-346c-11f0-a903-354059cc8719.png?v=064c71cd-122d-4909-8fdf-f58b812aff03",
+          "initiatorAvatarUrl": "https://example.com/event-avatar.jpg",
+          "numberRemainingSpots": 14,
+          "initiatorUid": "To5ECRiu47h1taztxiWFGj3fdq42",
+          "restrictMemberGender": "female",
+          "location": {
+            "latitude": 28.4184344,
+            "otherLocationDetails": "",
+            "guestLocationPreview": "",
+            "longitude": -81.2235127,
+            "eventLocation": "Orlando",
+            "radius": 0
+          },
+          "maxAge": 120,
+          "lastUpdatedAt": "2025-05-19 05:11:33.725000+00:00",
+          "eventDescription": "Bring yourself !\nDress code : Comfy ",
+          "timing": {
+            "signupCloseTime": "2025-05-21T22:00:00.000Z",
+            "eventEndDate": "2025-05-22T01:00:00.000Z",
+            "eventStartTime": "2025-05-21T22:00:00.000Z",
+            "signupCloseDate": "2025-05-21T22:00:00.000Z",
+            "displayTimezone": "America/New_York",
+            "eventEndTime": "2025-05-22T01:00:00.000Z",
+            "timeZone": "UTC",
+            "eventDate": "2025-05-21T22:00:00.000Z"
+          },
+          "invitationCriteria": "link_invite",
+          "initiatorGender": "female",
+          "numberAttending": 0,
+          "eventStatus": "close",
+          "ogImage": "https://storage.googleapis.com/walkme-e7896.appspot.com/events%2F59015fe0-346c-11f0-a903-354059cc8719_og.png?v=21230dee-4cde-4dd0-95ce-38fbbdedb877",
+          "updatedAt": "2025-05-19T04:50:54.650Z",
+          "eventTags": [],
+          "publicEvent": true,
+          "createdAt": "2025-05-19T04:47:20.859Z",
+          "otherReasonToClose": "",
+          "id": "59015fe0-346c-11f0-a903-354059cc8719"
+        },
+        {
+          "initiatiorExpoPushToken": "",
+          "howManyPeople": [
+            0,
+            40
+          ],
+          "requiredApproval": false,
+          "subscribeEvent": {
+            "enabled": true,
+            "viewCount": 0,
+            "interestedCount": 0
+          },
+          "eventClass": "non_ticketed",
+          "eventType": "free-individual",
+          "payoutDescriptor": "b5b187406cf8687c953092",
+          "minAge": 18,
+          "eventName": "glizzys minecraft bday \ud83d\ude1b",
+          "initiatorName": "glizzy",
+          "closeReason": "I had an emergency",
+          "flyerImage": "https://storage.googleapis.com/walkme-e7896.appspot.com/events%2F5e8c52a0-3483-11f0-89fa-53e8f1e4d72d.png?v=11d25380-1c4a-4364-b090-4dae43095b55",
+          "initiatorAvatarUrl": "https://firebasestorage.googleapis.com/v0/b/walkme-e7896.appspot.com/o/WhzeeviAcVXRL17tKfetKJ3EPsC2%2Fprofile.png?alt=media",
+          "addPlusOnes": {
+            "allowedNumber": [
+              0,
+              1
+            ],
+            "isAllowed": false
+          },
+          "restrictMemberGender": "open",
+          "initiatorUid": "WhzeeviAcVXRL17tKfetKJ3EPsC2",
+          "location": {
+            "latitude": 33.8832998,
+            "otherLocationDetails": "",
+            "guestLocationPreview": "1109 Diane Ave, Placentia, CA 92870, USA",
+            "longitude": -117.8737753,
+            "eventLocation": "1109 Diane Ave, Placentia, CA 92870, USA",
+            "radius": 1000
+          },
+          "isGroupBuying": false,
+          "payoutStatus": "NA",
+          "maxAge": 60,
+          "shareCloseMessage": "hi",
+          "tags": [],
+          "numberRemainingSpots": 40,
+          "externalEventUrl": "",
+          "lastUpdatedAt": "2025-05-19 07:37:55.701000+00:00",
+          "eventDescription": "we finna get litty. bring ur outfits and swimsuits (if u wanna swim) there will be food and games \ud83d\ude1b  \n\nparking is lowk a hassle so id recommend carpooling or being dropped off \ud83d\ude4f i have enough room in my driveway for abt 6 cars and 2 permits",
+          "timing": {
+            "signupCloseTime": "2025-05-22T06:55:00.000Z",
+            "eventEndDate": "2025-05-25T12:00:13.000Z",
+            "eventStartTime": "2025-05-25T02:30:13.000Z",
+            "signupCloseDate": "2025-05-22T06:55:00.000Z",
+            "displayTimezone": "America/Los_Angeles",
+            "eventEndTime": "2025-05-25T12:00:13.000Z",
+            "timeZone": "UTC",
+            "eventDate": "2025-05-25T02:30:13.000Z"
+          },
+          "invitationCriteria": "link_invite",
+          "initiatorGender": "female",
+          "numberAttending": 0,
+          "coHostUids": [],
+          "ogImage": "https://storage.googleapis.com/walkme-e7896.appspot.com/events%2F5e8c52a0-3483-11f0-89fa-53e8f1e4d72d_og.png?v=a3ec6f3a-0054-4e44-8195-0f7a5a5afbc3",
+          "feesMeta": "",
+          "coHosts": {},
+          "publicEvent": false,
+          "eventStatus": "close",
+          "createdAt": "2025-05-19T07:32:09.249Z",
+          "otherReasonToClose": "",
+          "id": "5e8c52a0-3483-11f0-89fa-53e8f1e4d72d"
+        },
+        {
+          "initiatiorExpoPushToken": "DELETED_USER",
+          "questionnaires": [
+            {
+              "questionType": "text",
+              "order": 0,
+              "question": "How many rsvp in your party? "
+            }
+          ],
+          "howManyPeople": [
+            0,
+            120
+          ],
+          "requiredApproval": false,
+          "subscribeEvent": {
+            "enabled": true,
+            "interestedCount": 0,
+            "viewCount": 53
+          },
+          "eventClass": "non_ticketed",
+          "eventType": "free-individual",
+          "payoutDescriptor": "319e678c3a1c8baec1f753",
+          "minAge": 18,
+          "eventName": "End of strike celebration",
+          "numberRemainingSpots": 97,
+          "closeReason": "App difficult to navigate ",
+          "flyerImage": "https://storage.googleapis.com/walkme-e7896.appspot.com/events%2F5541a940-34ef-11f0-b0f4-b711a4efb149.png?v=caed6888-53d4-4dae-ac8e-ee1b279f0f5f",
+          "initiatorAvatarUrl": "DELETED_USER",
+          "addPlusOnes": {
+            "allowedNumber": [
+              0,
+              1
+            ],
+            "isAllowed": false
+          },
+          "restrictMemberGender": "open",
+          "initiatorName": "DELETED_USER",
+          "isGroupBuying": false,
+          "location": {
+            "latitude": 32.6534771,
+            "otherLocationDetails": "",
+            "guestLocationPreview": "Eastlake Clubhouse, Chula Vista, CA, USA",
+            "longitude": -116.9783735,
+            "eventLocation": "2050 Lakeshore Dr, Chula Vista, CA 91913, USA",
+            "radius": 1000
+          },
+          "payoutStatus": "NA",
+          "maxAge": null,
+          "shareCloseMessage": "",
+          "tags": [],
+          "initiatorUid": "DELETED_USER",
+          "externalEventUrl": "",
+          "lastUpdatedAt": "2025-05-21 15:51:52.023000+00:00",
+          "eventDescription": "\nCome join us for a fun-filled celebration marking the end of the strike! Let's gather together to celebrate and enjoy some good food and music.  This event is a great opportunity to relax and unwind after a long period of hard work. Don't miss out on the chance to celebrate with your colleagues and friends.\n\nWhile it is potluck style, we are asking to please consider donating to help cover cost for the venue, decorations, other extras. We had some extra costs such as liability insurance. Any extra money will also go toward recognition gifts and food/drinks. \n\nPlease send any donations to Deni\nVenmo @Deni-Horita",
+          "timing": {
+            "signupCloseTime": "2025-06-14T00:00:01.000Z",
+            "eventEndDate": "2025-06-14T05:00:01.000Z",
+            "eventStartTime": "2025-06-14T00:00:01.000Z",
+            "signupCloseDate": "2025-06-14T00:00:01.000Z",
+            "displayTimezone": "America/Los_Angeles",
+            "eventEndTime": "2025-06-14T05:00:01.000Z",
+            "timeZone": "UTC",
+            "eventDate": "2025-06-14T00:00:01.000Z"
+          },
+          "invitationCriteria": "link_invite",
+          "initiatorGender": "female",
+          "numberAttending": 3,
+          "coHostUids": [],
+          "feesMeta": "",
+          "ogImage": "",
+          "coHosts": {},
+          "publicEvent": true,
+          "eventTags": [],
+          "eventStatus": "close",
+          "createdAt": "2025-05-19T20:25:00.683Z",
+          "otherReasonToClose": "",
+          "id": "5541a940-34ef-11f0-b0f4-b711a4efb149"
+        }
+      ]
+    },
+    "2025-05-20": {
+      "count": 1,
+      "events": [
+        {
+          "initiatiorExpoPushToken": "",
+          "shareCloseMessage": "Not good for plus 1",
+          "lastUpdatedAt": "2025-05-20 15:15:11.352000+00:00",
+          "howManyPeople": [
+            0,
+            100
+          ],
+          "timing": {
+            "signupCloseTime": "2025-09-20T18:00:00.000Z",
+            "eventEndDate": "2025-09-20T22:00:00.000Z",
+            "eventStartTime": "2025-09-20T18:00:00.000Z",
+            "signupCloseDate": "2025-09-20T18:00:00.000Z",
+            "displayTimezone": "America/New_York",
+            "eventEndTime": "2025-09-20T22:00:00.000Z",
+            "timeZone": "UTC",
+            "eventDate": "2025-09-20T18:00:00.000Z"
+          },
+          "eventDescription": "Please join us to Welcome our 1st Baby!\nIf you have any questions feel free to contact Us directly!\n\nDetails\nDiaper Raffle: Please bring a pack of diapers in any size to be entered into a prize drawing!\nBooks for the Baby: Instead of a card please bring a book (used or new) and sign the inside with a message from you!\n\nRegistry: https://www.amazon.com/baby-reg/alexis-heide-november-2025-tamarac/1Y522NYWARJ21",
+          "invitationCriteria": "link_invite",
+          "eventClass": "non_ticketed",
+          "initiatorGender": "female",
+          "numberAttending": 1,
+          "eventStatus": "close",
+          "ogImage": "https://storage.googleapis.com/walkme-e7896.appspot.com/events%2F4fa8b610-3583-11f0-99a9-4fd4bd302c87_og.png?v=659b0c24-aad3-4176-b295-ca7e3055d3e9",
+          "updatedAt": "2025-05-20T14:13:42.662Z",
+          "minAge": 18,
+          "eventName": "Alexis & Christophers Baby Shower",
+          "initiatorName": "Alexis Heide",
+          "closeReason": "I had an emergency",
+          "flyerImage": "https://storage.googleapis.com/walkme-e7896.appspot.com/events%2F4fa8b610-3583-11f0-99a9-4fd4bd302c87.png?v=fc3807ed-3066-42e6-846c-745164fc6593",
+          "createdAt": "2025-05-20T14:04:14.802Z",
+          "numberRemainingSpots": 99,
+          "initiatorUid": "bPQatpo045giyRRdcwN2d6nR5g92",
+          "otherReasonToClose": "",
+          "location": {
+            "latitude": 26.2281801,
+            "longitude": -80.2761647,
+            "eventLocation": "Tamarac"
+          },
+          "restrictMemberGender": "open",
+          "maxAge": 120,
+          "id": "4fa8b610-3583-11f0-99a9-4fd4bd302c87"
+        }
+      ]
+    }
+  }
+}
