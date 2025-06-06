@@ -4,9 +4,8 @@
 Better to use virtual environment for future reference.
 
 to run this use
-
-go to 
-python data_view.py
+ 
+*python data_view.py*
 
 it uses input file from data_files directory
 
